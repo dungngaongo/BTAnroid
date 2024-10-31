@@ -1,0 +1,7 @@
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">Ứng Dụng Tìm Kiếm Sinh Viên</string>
+    <string name="search_hint">Tìm kiếm theo tên hoặc MSSV</string>
+    <string name="student_name">Họ tên sinh viên</string>
+    <string name="student_id">MSSV</string>
+</resources>
